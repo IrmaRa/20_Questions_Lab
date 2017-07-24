@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body{
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Righteous';
+
+}
+
+button {
+  font-size: 30px;
+  padding: 30px;
+  margin: 10px;
+  border-radius: 20px;
+  font-family: 'Righteous';
+  box-shadow: 10px 10px 5px #888888;
+}
+
+button#guesser {
+  background-color: #0074D9;
+}
+
+button#chooser {
+  background-color: #FF4136;
+}
+
+input {
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: #7FDBFF;
+  padding: 20px;
+}
+
